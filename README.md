@@ -1,5 +1,5 @@
 <h1 align="center">Hy there! I'm Rizky Putra</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Front-End Web Developer</h3>
 
 <h3 align="center">Sosial Media:</h3>
 <p align="center">
